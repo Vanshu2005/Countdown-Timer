@@ -1,0 +1,48 @@
+body{  
+    text-align: center;
+    background-color:darkolivegreen;
+    font-size: 20px;
+    
+}
+table{
+    /* margin:auto; */
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+input{
+    font-size:20px;
+    border-radius:4px;
+    padding:10px;
+    text-align: center;
+    justify-content: center;
+
+}
+th{
+    font-size: 40px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+td{
+    
+    display: flex;
+}
+button{
+    width:15%;
+    height:15%;
+    padding:10px;
+}
+.countdown{
+    display:flex;
+    padding:10px;
+    justify-content: center;
+    font-size: 29px;
+}
+.time{
+    background-color:darkseagreen ;
+    height: 40%;
+    width:170px;
+    margin:0 10px;
+    font-size: 60px;
+}
